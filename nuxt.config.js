@@ -13,7 +13,7 @@ export default {
 
   router: {
     base: '/moviesearch/'
-  }
+  },
   /*
   ** Headers of the page
   ** See https://nuxtjs.org/api/configuration-head

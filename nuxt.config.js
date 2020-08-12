@@ -10,6 +10,10 @@ export default {
   ** See https://nuxtjs.org/api/configuration-target
   */
   target: 'static',
+
+  router: {
+    base: '/moviesearch/'
+  }
   /*
   ** Headers of the page
   ** See https://nuxtjs.org/api/configuration-head

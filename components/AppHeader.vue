@@ -35,7 +35,7 @@
         </div>
       </div>
       <div slot="modal-footer">
-        <b-button size="sm" variant="success">Check Out</b-button>
+        <b-button size="sm" variant="success">CheckOut</b-button>
         <b-button size="sm" variant="danger" @click.prevent="removeAllItems()">Empty cart</b-button
         >
       </div>
